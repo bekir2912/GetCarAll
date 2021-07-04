@@ -1,0 +1,60 @@
+@font-face{
+    font-family: 'Like';
+    src: url(../icons/like.ttf);
+}
+
+body{
+    font-family: 'Open Sans', sans-serif;
+    position: relative;
+}
+
+a:hover{
+    text-decoration: none;
+}
+
+ul{
+    margin-bottom: 0;
+    padding-left: 0;
+    list-style: none;
+}
+
+.swiper-container {
+    width: 100%;
+    height: 100%;
+}
+
+.swiper-button-next:after, .swiper-container-rtl .swiper-button-prev:after{
+    content: none;
+}
+
+.swiper-button-prev:after, .swiper-container-rtl .swiper-button-next:after{
+    content: none;
+}
+
+.btn1{
+    background: #D91B30;
+    font-size: 14px;
+    color: #fff;
+    border-radius: 4px;
+    box-shadow: 5px 5px 10px rgba(217,27,48,0.18);
+    padding: 12px 30px;
+    border: 0;
+}
+
+.btn1:hover{
+    color: #fff;
+}
+
+.like{
+    width: 23px;
+    height: 20px;
+    font-family: 'Like';
+}
+
+.dropdown-toggle::after{
+    content: none;
+}
+
+.active1{
+    display: block !important;
+}

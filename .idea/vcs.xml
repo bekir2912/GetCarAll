@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/bizley/migration" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/kalyabin/yii2-select-google-map-location" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/kartik-v/bootstrap-fileinput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/kartik-v/yii2-krajee-base" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/kartik-v/yii2-widget-fileinput" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/vendor_old/tinymce/tinymce" vcs="Git" />
+  </component>
+</project>

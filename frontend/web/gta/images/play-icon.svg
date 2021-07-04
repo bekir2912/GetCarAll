@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="65" viewBox="0 0 65 65">
+  <g id="play-icon" transform="translate(-1201 -235)">
+    <g id="Ellipse_2" data-name="Ellipse 2" transform="translate(1201 235)" fill="none" stroke="#fff" stroke-width="1">
+      <circle cx="32.5" cy="32.5" r="32.5" stroke="none"/>
+      <circle cx="32.5" cy="32.5" r="32" fill="none"/>
+    </g>
+    <path id="Polygon_3" data-name="Polygon 3" d="M13.676,7.447a5,5,0,0,1,8.648,0l9.315,16.043A5,5,0,0,1,27.315,31H8.685a5,5,0,0,1-4.324-7.511Z" transform="translate(1254 250) rotate(90)" fill="#fff"/>
+  </g>
+</svg>
